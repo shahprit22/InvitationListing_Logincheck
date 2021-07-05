@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/InvitationListing_Logincheck/static/css/main.52888ef8.chunk.css",
-    "main.js": "/InvitationListing_Logincheck/static/js/main.8d5d20a0.chunk.js",
-    "main.js.map": "/InvitationListing_Logincheck/static/js/main.8d5d20a0.chunk.js.map",
-    "runtime-main.js": "/InvitationListing_Logincheck/static/js/runtime-main.2a0ec3fd.js",
-    "runtime-main.js.map": "/InvitationListing_Logincheck/static/js/runtime-main.2a0ec3fd.js.map",
+    "main.js": "/InvitationListing_Logincheck/static/js/main.11c615f0.chunk.js",
+    "main.js.map": "/InvitationListing_Logincheck/static/js/main.11c615f0.chunk.js.map",
+    "runtime-main.js": "/InvitationListing_Logincheck/static/js/runtime-main.0664c6e8.js",
+    "runtime-main.js.map": "/InvitationListing_Logincheck/static/js/runtime-main.0664c6e8.js.map",
     "static/css/2.081f420c.chunk.css": "/InvitationListing_Logincheck/static/css/2.081f420c.chunk.css",
-    "static/js/2.931cc2e6.chunk.js": "/InvitationListing_Logincheck/static/js/2.931cc2e6.chunk.js",
-    "static/js/2.931cc2e6.chunk.js.map": "/InvitationListing_Logincheck/static/js/2.931cc2e6.chunk.js.map",
-    "static/js/3.e3ac0cb6.chunk.js": "/InvitationListing_Logincheck/static/js/3.e3ac0cb6.chunk.js",
-    "static/js/3.e3ac0cb6.chunk.js.map": "/InvitationListing_Logincheck/static/js/3.e3ac0cb6.chunk.js.map",
+    "static/js/2.57ed72ed.chunk.js": "/InvitationListing_Logincheck/static/js/2.57ed72ed.chunk.js",
+    "static/js/2.57ed72ed.chunk.js.map": "/InvitationListing_Logincheck/static/js/2.57ed72ed.chunk.js.map",
+    "static/js/3.d0e72469.chunk.js": "/InvitationListing_Logincheck/static/js/3.d0e72469.chunk.js",
+    "static/js/3.d0e72469.chunk.js.map": "/InvitationListing_Logincheck/static/js/3.d0e72469.chunk.js.map",
     "index.html": "/InvitationListing_Logincheck/index.html",
     "static/css/2.081f420c.chunk.css.map": "/InvitationListing_Logincheck/static/css/2.081f420c.chunk.css.map",
     "static/css/main.52888ef8.chunk.css.map": "/InvitationListing_Logincheck/static/css/main.52888ef8.chunk.css.map",
-    "static/js/2.931cc2e6.chunk.js.LICENSE.txt": "/InvitationListing_Logincheck/static/js/2.931cc2e6.chunk.js.LICENSE.txt"
+    "static/js/2.57ed72ed.chunk.js.LICENSE.txt": "/InvitationListing_Logincheck/static/js/2.57ed72ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a0ec3fd.js",
+    "static/js/runtime-main.0664c6e8.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.931cc2e6.chunk.js",
+    "static/js/2.57ed72ed.chunk.js",
     "static/css/main.52888ef8.chunk.css",
-    "static/js/main.8d5d20a0.chunk.js"
+    "static/js/main.11c615f0.chunk.js"
   ]
 }
