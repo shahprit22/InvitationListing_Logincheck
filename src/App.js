@@ -28,10 +28,11 @@ class App extends Component {
         <Switch>
           <Route path="/login" component={Login} />
           <Route path="/logout" component={Logout} />
-          <Route path="/home" component={Home} />
+          
           <Route path="/invites" 
             render={props => <Invitation {...props} user={user} />}
           />
+          <Route path="/" component={Home} />
         </Switch>
       </React.Fragment>
     );

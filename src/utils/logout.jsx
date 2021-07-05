@@ -4,7 +4,7 @@ class Logout extends Component{
 
     componentDidMount(){
         localStorage.removeItem("token")
-        window.location="/home"
+        window.location="/"
     }
     render(){
     return ( 

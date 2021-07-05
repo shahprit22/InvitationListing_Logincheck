@@ -210,23 +210,27 @@ class Invitation extends Component {
         // }, 5000);
 
         let count=0;
-        userupdateInvites.forEach(addinvite => {
+        userupdateInvites.forEach(async addinvite => {
             count++;
-            var clear = setInterval(()=>{
+            setTimeout(()=>{
             // if(count<=userupdateInvites.length){
             const newAdd = [...this.state.userInvites, addinvite]
             this.setState({userInvites:newAdd})
-            if(count>=userupdateInvites.length){ 
-                clearInterval(clear)
-            }
+            // if(count>=userupdateInvites.length){ 
+            //     clearInterval(clear)
+            // }
             // }
             },5000)
-
+            // await this.sleep(5000);
             // if(count===3){
             //     clearInterval(clear)
             // }
         })
     }
+
+    // sleep = (ms) => {
+    //     return new Promise(resolve => setTimeout(resolve, ms));
+    // }
     
     render() { 
         const {userInvites} = this.state

@@ -1,4 +1,5 @@
 import React,{ Component } from 'react';
+import CryptoJS from 'crypto-js';
 
 class Login extends Component {
     
@@ -43,8 +44,9 @@ class Login extends Component {
         for(const user of users){
             if(user.email===data.userName && user.password===data.password){
                 console.log("hello")
+                user.password = CryptoJS.SHA1(user.password).toString();
                 localStorage.setItem("token",JSON.stringify(user))
-                window.location="/home";
+                window.location="/";
                 break;
             }
         }
